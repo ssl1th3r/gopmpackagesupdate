@@ -6,7 +6,7 @@ Provides detailed output, progress bars, and automatic installation of CLI binar
 
 ---
 
-## 🔹 Features
+## / Features /
 
 - Install packages directly from GitHub
 - Supports `.tar.gz` packages and plain binaries
@@ -19,7 +19,7 @@ Provides detailed output, progress bars, and automatic installation of CLI binar
 
 ---
 
-## 📥 Installing GoPM
+## / Installing GoPM /
 
 1. Clone the repository or download the source:
 

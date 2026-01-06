@@ -3,5 +3,9 @@
     "name": "cmatrix",
     "version": "2.0",
     "deps": ["ncurses", "libc"]
+  },
+  {
+    "name": "cfetch",
+    "version": "0.0.1"
   }
 ]
